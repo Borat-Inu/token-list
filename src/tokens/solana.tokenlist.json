@@ -59,15 +59,17 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1",
-      "symbol": "agEUR",
-      "name": "agEUR (Wormhole)",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CbNYA9n3927uXUukee2Hf4tm3xxkffJPPZvGazc2EAH1/logo.svg",
+      "address": "5EU9xYp6HGiFMqh7Kx6cGHABE6UXcF4xYaDTqNhfbtYJ",
+      "symbol": "BORAT",
+      "name": "BORAT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5EU9xYp6HGiFMqh7Kx6cGHABE6UXcF4xYaDTqNhfbtYJ/logo.png",
       "tags": [
         "ethereum",
         "wrapped",
         "wormhole"
+        "twitter": "https://twitter.com/SolaBorat",
+        "website": "https://www.solaborat.com"
       ],
       "extensions": {
         "address": "0x1a7e4e63778B4f12a199C062f3eFdD288afCBce8",
